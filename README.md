@@ -1,4 +1,6 @@
-# food-delivery
-This website was made completely using HTML5 and CSS3 and this website is based on the  theme of a food delivery online website. This website can be render itself from desktop to android screen size display and the text  and image on this website adopt the screen size and display according to them.
+# food-delivery website
+
+this web site is made using html,css,php and all the data which will entered in this website will be stored in the locally installed server(xampp serveer)
+
 
 file:///C:/Users/Deepak/Desktop/new%20food/index.html  quick look
